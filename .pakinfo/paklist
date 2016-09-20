@@ -34,6 +34,7 @@ copy models/buildables/trapper/destroyed.md5anim
 copy models/buildables/trapper/idle.md5anim
 copy models/buildables/trapper/pain.md5anim
 copy models/buildables/trapper/trapper.crn
+copy models/buildables/trapper/trapper_g.crn
 copy models/buildables/trapper/trapper_n.crn
 copy models/buildables/trapper/trapper_s.crn
 copy models/fx/alien_gibs/a_gib1.md3
@@ -85,6 +86,8 @@ copy models/players/human_base/battpack.md3
 copy models/players/human_base/body.crn
 copy models/players/human_base/head.crn
 copy models/players/human_base/helmet.crn
+copy models/players/human_base/jetpack.crn
+copy models/players/human_base/jetpack_s.crn
 copy models/players/human_bsuit/head.md3
 copy models/players/human_bsuit/human_bsuit.crn
 copy models/players/human_bsuit/lower.md3
@@ -380,6 +383,7 @@ copy models/weapons/shotgun/shotgun_view_raise.md5anim
 copy models/weapons/shotgun/shotgun_view_reload.md5anim
 copy models/weapons/shotgun/tpshotgun.md3
 copy models/weapons/shotgun/tpskin.crn
+copy scripts/jetpack.shader
 copy scripts/shotgun.trail
 copy scripts/telenode.particle
 keep configs/upgrades/battpack.attr.cfg
