@@ -370,6 +370,16 @@ copy models/weapons/firebomb/firebomb.md5mesh
 copy models/weapons/firebomb/firebomb_d.crn
 copy models/weapons/firebomb/firebomb_n.crn
 copy models/weapons/firebomb/firebomb_s.crn
+copy models/weapons/flamer/flamer_d.crn
+copy models/weapons/flamer/flamer_n.crn
+copy models/weapons/flamer/flamer_s.crn
+copy models/weapons/flamer/flamer_thirdperson.md3
+copy models/weapons/flamer/flamer_view.md5mesh
+copy models/weapons/flamer/flamer_view_fire.md5anim
+copy models/weapons/flamer/flamer_view_idle.md5anim
+copy models/weapons/flamer/flamer_view_lower.md5anim
+copy models/weapons/flamer/flamer_view_raise.md5anim
+copy models/weapons/flamer/flamer_view_reload.md5anim
 copy models/weapons/flamer/flash.crn
 copy models/weapons/grenade/grenade.crn
 copy models/weapons/grenade/grenade.md5mesh
