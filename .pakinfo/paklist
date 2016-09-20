@@ -15,8 +15,10 @@ copy models/buildables/booster/booster_a.crn
 copy models/buildables/booster/booster_d.crn
 copy models/buildables/booster/booster_n.crn
 copy models/buildables/booster/booster_s.crn
+copy models/buildables/drill/drill.iqm
 copy models/buildables/drill/drill_a.crn
 copy models/buildables/drill/drill_d.crn
+copy models/buildables/drill/drill_n.crn
 copy models/buildables/drill/drill_s.crn
 copy models/buildables/reactor/readme.txt
 copy models/buildables/telenode/idle.md5anim
@@ -87,6 +89,8 @@ copy models/players/human_base/body.crn
 copy models/players/human_base/head.crn
 copy models/players/human_base/helmet.crn
 copy models/players/human_base/jetpack.crn
+copy models/players/human_base/jetpack.iqm
+copy models/players/human_base/jetpack_n.crn
 copy models/players/human_base/jetpack_s.crn
 copy models/players/human_bsuit/head.md3
 copy models/players/human_bsuit/human_bsuit.crn
