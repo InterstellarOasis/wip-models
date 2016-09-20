@@ -40,6 +40,13 @@ copy models/buildables/hive/hive_a.crn
 copy models/buildables/hive/hive_d.crn
 copy models/buildables/hive/hive_n.crn
 copy models/buildables/hive/hive_s.crn
+copy models/buildables/leech/body_d.crn
+copy models/buildables/leech/body_n.crn
+copy models/buildables/leech/body_s.crn
+copy models/buildables/leech/leech.iqm
+copy models/buildables/leech/roots_d.crn
+copy models/buildables/leech/roots_n.crn
+copy models/buildables/leech/roots_s.crn
 copy models/buildables/mgturret/mgturret.iqm
 copy models/buildables/mgturret/turret_d.crn
 copy models/buildables/mgturret/turret_n.crn
