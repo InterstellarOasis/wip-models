@@ -554,7 +554,6 @@ copy scripts/smg.shader
 copy scripts/telenode.particle
 convert_normalized_crn models/players/level2/Mara_Body_Nrmls.png
 convert_normalized_crn models/players/level2/Mara_Legs_Nrmls.png
-keep configs/upgrades/battpack.attr.cfg
 keep models/players/builder/body_advanced.skin
 keep models/players/builder/body_default.skin
 keep models/players/builder/character.cfg
