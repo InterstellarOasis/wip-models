@@ -32,6 +32,10 @@ copy models/buildables/hive/hive_a.crn
 copy models/buildables/hive/hive_d.crn
 copy models/buildables/hive/hive_n.crn
 copy models/buildables/hive/hive_s.crn
+copy models/buildables/mgturret/mgturret.iqm
+copy models/buildables/mgturret/turret_d.crn
+copy models/buildables/mgturret/turret_n.crn
+copy models/buildables/mgturret/turret_s.crn
 copy models/buildables/reactor/reactor.iqm
 copy models/buildables/reactor/reactor_arm_d.crn
 copy models/buildables/reactor/reactor_arm_glow1.crn
@@ -43,6 +47,14 @@ copy models/buildables/reactor/reactor_core_glow.crn
 copy models/buildables/reactor/reactor_core_n.crn
 copy models/buildables/reactor/reactor_core_s.crn
 copy models/buildables/reactor/readme.txt
+copy models/buildables/rocketpod/rocket_d.crn
+copy models/buildables/rocketpod/rocket_g.crn
+copy models/buildables/rocketpod/rocket_n.crn
+copy models/buildables/rocketpod/rocket_s.crn
+copy models/buildables/rocketpod/rocketpod.iqm
+copy models/buildables/rocketpod/rocketpod_d.crn
+copy models/buildables/rocketpod/rocketpod_n.crn
+copy models/buildables/rocketpod/rocketpod_s.crn
 copy models/buildables/telenode/idle.md5anim
 copy models/buildables/telenode/spawn.md5anim
 copy models/buildables/telenode/telenode-effect.crn
@@ -338,7 +350,9 @@ copy models/weapons/lcannon/lcannon_flash.md3
 copy models/weapons/lcannon/lcannon_hand.md3
 copy models/weapons/lcannon/lcannon_view_fire2.md5anim
 copy models/weapons/level1/vwep_hand.md3
+copy models/weapons/level1/vwep_view.iqm
 copy models/weapons/level2/vwep_hand.md3
+copy models/weapons/level2/vwep_view.iqm
 copy models/weapons/level2/zzap.crn
 copy models/weapons/level2/zzap2.crn
 copy models/weapons/level3upg/missile.crn
@@ -443,6 +457,8 @@ copy scripts/jetpack.shader
 copy scripts/shotgun.trail
 copy scripts/smg.shader
 copy scripts/telenode.particle
+convert_normalized_crn models/players/level2/Mara_Body_Nrmls.png
+convert_normalized_crn models/players/level2/Mara_Legs_Nrmls.png
 keep configs/upgrades/battpack.attr.cfg
 keep models/players/builder/body_advanced.skin
 keep models/players/builder/body_default.skin
