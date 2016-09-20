@@ -58,6 +58,7 @@ copy models/buildables/trapper/destroyed.md5anim
 copy models/buildables/trapper/idle.md5anim
 copy models/buildables/trapper/pain.md5anim
 copy models/buildables/trapper/trapper.crn
+copy models/buildables/trapper/trapper.md5mesh
 copy models/buildables/trapper/trapper_g.crn
 copy models/buildables/trapper/trapper_n.crn
 copy models/buildables/trapper/trapper_s.crn
@@ -208,7 +209,9 @@ copy models/players/level0/turn.md5anim
 copy models/players/level0/walk.md5anim
 copy models/players/level0/walk_left.md5anim
 copy models/players/level0/walk_right.md5anim
+copy models/players/level1/level1.iqm
 copy models/players/level1/mantis_d.crn
+copy models/players/level1/mantis_g.crn
 copy models/players/level1/mantis_n.crn
 copy models/players/level1/mantis_s.crn
 copy models/players/level2/AdvMara_Body_Diff.crn
@@ -407,8 +410,18 @@ copy models/weapons/psaw/psaw.md3
 copy models/weapons/psaw/psaw_flash.md3
 copy models/weapons/psaw/psaw_hand.md3
 copy models/weapons/rifle/flash.crn
+copy models/weapons/rifle/license.txt
 copy models/weapons/rifle/rifle_flash.md3
 copy models/weapons/rifle/rifle_hand.md3
+copy models/weapons/rifle/rifle_view.md5mesh
+copy models/weapons/rifle/rifle_view_fire.md5anim
+copy models/weapons/rifle/rifle_view_idle.md5anim
+copy models/weapons/rifle/rifle_view_lower.md5anim
+copy models/weapons/rifle/rifle_view_raise.md5anim
+copy models/weapons/rifle/rifle_view_reload.md5anim
+copy models/weapons/rifle/smg_d.crn
+copy models/weapons/rifle/smg_n.crn
+copy models/weapons/rifle/smg_s.crn
 copy models/weapons/rifle/tpweapon.md3
 copy models/weapons/shells/rifle-shell.crn
 copy models/weapons/shells/rifle-shell.md3
@@ -428,6 +441,7 @@ copy models/weapons/shotgun/tpshotgun.md3
 copy models/weapons/shotgun/tpskin.crn
 copy scripts/jetpack.shader
 copy scripts/shotgun.trail
+copy scripts/smg.shader
 copy scripts/telenode.particle
 keep configs/upgrades/battpack.attr.cfg
 keep models/players/builder/body_advanced.skin
