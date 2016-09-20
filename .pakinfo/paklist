@@ -36,6 +36,11 @@ copy models/buildables/mgturret/mgturret.iqm
 copy models/buildables/mgturret/turret_d.crn
 copy models/buildables/mgturret/turret_n.crn
 copy models/buildables/mgturret/turret_s.crn
+copy models/buildables/overmind/overmind.iqm
+copy models/buildables/overmind/overmind_d.crn
+copy models/buildables/overmind/overmind_g.crn
+copy models/buildables/overmind/overmind_n.crn
+copy models/buildables/overmind/overmind_s.crn
 copy models/buildables/reactor/reactor.iqm
 copy models/buildables/reactor/reactor_arm_d.crn
 copy models/buildables/reactor/reactor_arm_glow1.crn
