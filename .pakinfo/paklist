@@ -17,6 +17,14 @@ copy models/buildables/arm/arm_n.crn
 copy models/buildables/arm/arm_s.crn
 copy models/buildables/arm/screen_d.crn
 copy models/buildables/arm/screen_s.crn
+copy models/buildables/barricade/barricade.iqm
+copy models/buildables/barricade/body_d.crn
+copy models/buildables/barricade/body_g.crn
+copy models/buildables/barricade/body_n.crn
+copy models/buildables/barricade/body_s.crn
+copy models/buildables/barricade/tentacles_d.crn
+copy models/buildables/barricade/tentacles_n.crn
+copy models/buildables/barricade/tentacles_s.crn
 copy models/buildables/booster/booster.iqm
 copy models/buildables/booster/booster_a.crn
 copy models/buildables/booster/booster_d.crn
