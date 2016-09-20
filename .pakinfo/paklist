@@ -1,6 +1,8 @@
 copy README.md
 copy models/buildables/acid_tube/acid_tube.md5mesh
+copy models/buildables/acid_tube/acidtube.crn
 copy models/buildables/acid_tube/acidtube_g.crn
+copy models/buildables/acid_tube/acidtube_n.crn
 copy models/buildables/acid_tube/acidtube_s.crn
 copy models/buildables/acid_tube/attack.md5anim
 copy models/buildables/acid_tube/construct.md5anim
@@ -13,6 +15,9 @@ copy models/buildables/booster/booster_a.crn
 copy models/buildables/booster/booster_d.crn
 copy models/buildables/booster/booster_n.crn
 copy models/buildables/booster/booster_s.crn
+copy models/buildables/drill/drill_a.crn
+copy models/buildables/drill/drill_d.crn
+copy models/buildables/drill/drill_s.crn
 copy models/buildables/reactor/readme.txt
 copy models/buildables/telenode/idle.md5anim
 copy models/buildables/telenode/spawn.md5anim
@@ -28,6 +33,8 @@ copy models/buildables/trapper/destroy.md5anim
 copy models/buildables/trapper/destroyed.md5anim
 copy models/buildables/trapper/idle.md5anim
 copy models/buildables/trapper/pain.md5anim
+copy models/buildables/trapper/trapper.crn
+copy models/buildables/trapper/trapper_n.crn
 copy models/buildables/trapper/trapper_s.crn
 copy models/fx/alien_gibs/a_gib1.md3
 copy models/fx/alien_gibs/a_gib2.md3
@@ -140,7 +147,9 @@ copy models/players/level0/body.md5mesh
 copy models/players/level0/die.md5anim
 copy models/players/level0/die2.md5anim
 copy models/players/level0/die3.md5anim
+copy models/players/level0/dretch.crn
 copy models/players/level0/dretch_g.crn
+copy models/players/level0/dretch_n.crn
 copy models/players/level0/dretch_s.crn
 copy models/players/level0/gesture.md5anim
 copy models/players/level0/jump.md5anim
