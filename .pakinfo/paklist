@@ -47,6 +47,13 @@ copy models/buildables/reactor/reactor_core_glow.crn
 copy models/buildables/reactor/reactor_core_n.crn
 copy models/buildables/reactor/reactor_core_s.crn
 copy models/buildables/reactor/readme.txt
+copy models/buildables/repeater/repeater.iqm
+copy models/buildables/repeater/repeater_d.crn
+copy models/buildables/repeater/repeater_g1.crn
+copy models/buildables/repeater/repeater_g2.crn
+copy models/buildables/repeater/repeater_n.crn
+copy models/buildables/repeater/repeater_s.crn
+copy models/buildables/rocketpod/rocket.iqm
 copy models/buildables/rocketpod/rocket_d.crn
 copy models/buildables/rocketpod/rocket_g.crn
 copy models/buildables/rocketpod/rocket_n.crn
@@ -55,6 +62,11 @@ copy models/buildables/rocketpod/rocketpod.iqm
 copy models/buildables/rocketpod/rocketpod_d.crn
 copy models/buildables/rocketpod/rocketpod_n.crn
 copy models/buildables/rocketpod/rocketpod_s.crn
+copy models/buildables/spiker/spiker.iqm
+copy models/buildables/spiker/spiker_d.crn
+copy models/buildables/spiker/spiker_g.crn
+copy models/buildables/spiker/spiker_n.crn
+copy models/buildables/spiker/spiker_s.crn
 copy models/buildables/telenode/idle.md5anim
 copy models/buildables/telenode/spawn.md5anim
 copy models/buildables/telenode/telenode-effect.crn
@@ -89,6 +101,7 @@ copy models/fx/metal_gibs/m_gib6.md3
 copy models/fx/metal_gibs/m_gib7.md3
 copy models/fx/metal_gibs/m_gib8.md3
 copy models/fx/metal_gibs/metal_gibs.crn
+copy models/missiles/spike/spike.iqm
 copy models/players/builder/attack.md5anim
 copy models/players/builder/attack2.md5anim
 copy models/players/builder/attack3.md5anim
