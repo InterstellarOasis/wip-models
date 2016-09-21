@@ -47,8 +47,6 @@ copy models/buildables/medistat/v_grid.crn
 copy models/buildables/mgturret/mgturret.iqm
 copy models/buildables/overmind/overmind.iqm
 copy models/buildables/overmind/overmind_d.crn
-copy models/buildables/overmind/overmind_g.crn
-copy models/buildables/overmind/overmind_n.crn
 copy models/buildables/overmind/overmind_s.crn
 copy models/buildables/reactor/reactor.iqm
 copy models/buildables/reactor/reactor_arm_d.crn
@@ -111,9 +109,6 @@ copy models/players/builder/die.md5anim
 copy models/players/builder/die2.md5anim
 copy models/players/builder/die3.md5anim
 copy models/players/builder/gesture.md5anim
-copy models/players/builder/granger_d.crn
-copy models/players/builder/granger_n.crn
-copy models/players/builder/granger_spec.crn
 copy models/players/builder/jump.md5anim
 copy models/players/builder/jump_back.md5anim
 copy models/players/builder/land.md5anim
@@ -513,6 +508,7 @@ convert_crn models/buildables/leech/roots_d.png
 convert_crn models/buildables/leech/roots_s.png
 convert_crn models/buildables/mgturret/turret_d.png
 convert_crn models/buildables/mgturret/turret_s.png
+convert_crn models/buildables/overmind/overmind_g.png
 convert_crn models/buildables/rocketpod/rocket_d.png
 convert_crn models/buildables/rocketpod/rocket_g.png
 convert_crn models/buildables/rocketpod/rocket_s.png
@@ -522,6 +518,8 @@ convert_crn models/buildables/spiker/spiker_d.png
 convert_crn models/buildables/spiker/spiker_g.png
 convert_crn models/buildables/spiker/spiker_s.png
 convert_crn models/buildables/trapper/trapper.png
+convert_crn models/players/builder/granger_d.png
+convert_crn models/players/builder/granger_spec.png
 convert_crn models/players/human_base/jetpack.png
 convert_crn models/players/human_base/jetpack_s.png
 convert_crn models/players/level0/dretch.png
@@ -541,10 +539,12 @@ convert_normalized_crn models/buildables/hive/hive_n.png
 convert_normalized_crn models/buildables/leech/body_n.png
 convert_normalized_crn models/buildables/leech/roots_n.png
 convert_normalized_crn models/buildables/mgturret/turret_n.png
+convert_normalized_crn models/buildables/overmind/overmind_n.png
 convert_normalized_crn models/buildables/rocketpod/rocket_n.png
 convert_normalized_crn models/buildables/rocketpod/rocketpod_n.png
 convert_normalized_crn models/buildables/spiker/spiker_n.png
 convert_normalized_crn models/buildables/trapper/trapper_n.png
+convert_normalized_crn models/players/builder/granger_n.png
 convert_normalized_crn models/players/human_base/jetpack_n.png
 convert_normalized_crn models/players/level0/dretch_n.png
 convert_normalized_crn models/players/level2/Mara_Body_Nrmls.png
