@@ -10,13 +10,6 @@ copy models/buildables/acid_tube/idle.md5anim
 copy models/buildables/acid_tube/pain.md5anim
 copy models/buildables/arm/arm.iqm
 copy models/buildables/barricade/barricade.iqm
-copy models/buildables/barricade/body_d.crn
-copy models/buildables/barricade/body_g.crn
-copy models/buildables/barricade/body_n.crn
-copy models/buildables/barricade/body_s.crn
-copy models/buildables/barricade/tentacles_d.crn
-copy models/buildables/barricade/tentacles_n.crn
-copy models/buildables/barricade/tentacles_s.crn
 copy models/buildables/booster/booster.iqm
 copy models/buildables/booster/booster_a.crn
 copy models/buildables/booster/booster_d.crn
@@ -515,6 +508,11 @@ convert_crn models/buildables/arm/arm_d.png
 convert_crn models/buildables/arm/arm_s.png
 convert_crn models/buildables/arm/screen_d.png
 convert_crn models/buildables/arm/screen_s.png
+convert_crn models/buildables/barricade/body_d.png
+convert_crn models/buildables/barricade/body_g.png
+convert_crn models/buildables/barricade/body_s.png
+convert_crn models/buildables/barricade/tentacles_d.png
+convert_crn models/buildables/barricade/tentacles_s.png
 convert_crn models/buildables/drill/drill_a.png
 convert_crn models/buildables/drill/drill_d.png
 convert_crn models/buildables/drill/drill_s.png
@@ -539,6 +537,8 @@ convert_crn models/players/level4/level4b.png
 convert_crn models/players/level4/level4h.png
 convert_normalized_crn models/buildables/acid_tube/acidtube_n.png
 convert_normalized_crn models/buildables/arm/arm_n.png
+convert_normalized_crn models/buildables/barricade/body_n.png
+convert_normalized_crn models/buildables/barricade/tentacles_n.png
 convert_normalized_crn models/buildables/drill/drill_n.png
 convert_normalized_crn models/buildables/eggpod/egg_n.png
 convert_normalized_crn models/buildables/hive/hive_n.png
@@ -559,3 +559,4 @@ keep models/players/builder/body_default.skin
 keep models/players/builder/character.cfg
 keep models/players/level1/body_default.skin
 keep models/players/level1/character.cfg
+ignore models/buildables/barricade/barricade.blend
