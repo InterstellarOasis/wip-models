@@ -559,4 +559,8 @@ keep models/players/builder/body_default.skin
 keep models/players/builder/character.cfg
 keep models/players/level1/body_default.skin
 keep models/players/level1/character.cfg
+ignore models/buildables/arm/armoury.blend
 ignore models/buildables/barricade/barricade.blend
+ignore models/buildables/drill/drill.blend
+ignore models/players/human_base/jetpack.blend
+ignore models/weapons/rifle/smg-tpp.blend
