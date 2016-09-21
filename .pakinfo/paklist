@@ -51,9 +51,7 @@ copy models/buildables/telenode/idle.md5anim
 copy models/buildables/telenode/spawn.md5anim
 copy models/buildables/telenode/telenode-effect.crn
 copy models/buildables/telenode/telenode.md5mesh
-copy models/buildables/telenode/telenode_d.crn
 copy models/buildables/telenode/telenode_glow.crn
-copy models/buildables/telenode/telenode_n.crn
 copy models/buildables/telenode/telenode_spec.crn
 copy models/buildables/trapper/attack.md5anim
 copy models/buildables/trapper/construct.md5anim
@@ -516,6 +514,7 @@ convert_crn models/buildables/rocketpod/rocketpod_s.png
 convert_crn models/buildables/spiker/spiker_d.png
 convert_crn models/buildables/spiker/spiker_g.png
 convert_crn models/buildables/spiker/spiker_s.png
+convert_crn models/buildables/telenode/telenode_d.png
 convert_crn models/buildables/trapper/trapper.png
 convert_crn models/players/builder/granger_d.png
 convert_crn models/players/builder/granger_spec.png
@@ -543,6 +542,7 @@ convert_normalized_crn models/buildables/overmind/overmind_n.png
 convert_normalized_crn models/buildables/rocketpod/rocket_n.png
 convert_normalized_crn models/buildables/rocketpod/rocketpod_n.png
 convert_normalized_crn models/buildables/spiker/spiker_n.png
+convert_normalized_crn models/buildables/telenode/telenode_n.png
 convert_normalized_crn models/buildables/trapper/trapper_n.png
 convert_normalized_crn models/players/builder/granger_n.png
 convert_normalized_crn models/players/human_base/jetpack_n.png
