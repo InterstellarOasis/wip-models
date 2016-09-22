@@ -134,8 +134,6 @@ copy models/players/human_naked/body.md5mesh
 copy models/players/human_naked/head_d.crn
 copy models/players/human_naked/head_n.crn
 copy models/players/human_naked/head_s.crn
-copy models/players/human_nobsuit_common/arm_d.crn
-copy models/players/human_nobsuit_common/arm_n.crn
 copy models/players/human_nobsuit_common/arm_s.crn
 copy models/players/human_nobsuit_common/attack.md5anim
 copy models/players/human_nobsuit_common/base_d.crn
@@ -520,6 +518,7 @@ convert_crn models/players/builder/granger_d.png
 convert_crn models/players/builder/granger_spec.png
 convert_crn models/players/human_base/jetpack.png
 convert_crn models/players/human_base/jetpack_s.png
+convert_crn models/players/human_nobsuit_common/arm_d.png
 convert_crn models/players/level0/dretch.png
 convert_crn models/players/level4/level4b.png
 convert_crn models/players/level4/level4h.png
@@ -546,6 +545,7 @@ convert_normalized_crn models/buildables/telenode/telenode_n.png
 convert_normalized_crn models/buildables/trapper/trapper_n.png
 convert_normalized_crn models/players/builder/granger_n.png
 convert_normalized_crn models/players/human_base/jetpack_n.png
+convert_normalized_crn models/players/human_nobsuit_common/arm_n.png
 convert_normalized_crn models/players/level0/dretch_n.png
 convert_normalized_crn models/players/level2/Mara_Body_Nrmls.png
 convert_normalized_crn models/players/level2/Mara_Legs_Nrmls.png
