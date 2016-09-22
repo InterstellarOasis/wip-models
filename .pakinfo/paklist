@@ -11,10 +11,6 @@ copy models/buildables/acid_tube/pain.md5anim
 copy models/buildables/arm/arm.iqm
 copy models/buildables/barricade/barricade.iqm
 copy models/buildables/booster/booster.iqm
-copy models/buildables/booster/booster_a.crn
-copy models/buildables/booster/booster_d.crn
-copy models/buildables/booster/booster_n.crn
-copy models/buildables/booster/booster_s.crn
 copy models/buildables/drill/drill.iqm
 copy models/buildables/eggpod/eggpod.iqm
 copy models/buildables/hive/hive.iqm
@@ -455,6 +451,9 @@ convert_crn models/buildables/barricade/body_g.png
 convert_crn models/buildables/barricade/body_s.png
 convert_crn models/buildables/barricade/tentacles_d.png
 convert_crn models/buildables/barricade/tentacles_s.png
+convert_crn models/buildables/booster/booster_a.png
+convert_crn models/buildables/booster/booster_d.png
+convert_crn models/buildables/booster/booster_s.png
 convert_crn models/buildables/drill/drill_a.png
 convert_crn models/buildables/drill/drill_d.png
 convert_crn models/buildables/drill/drill_s.png
@@ -528,6 +527,7 @@ convert_normalized_crn models/buildables/acid_tube/acidtube_n.png
 convert_normalized_crn models/buildables/arm/arm_n.png
 convert_normalized_crn models/buildables/barricade/body_n.png
 convert_normalized_crn models/buildables/barricade/tentacles_n.png
+convert_normalized_crn models/buildables/booster/booster_n.png
 convert_normalized_crn models/buildables/drill/drill_n.png
 convert_normalized_crn models/buildables/eggpod/egg_n.png
 convert_normalized_crn models/buildables/hive/hive_n.png
