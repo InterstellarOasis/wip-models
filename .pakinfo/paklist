@@ -18,8 +18,6 @@ copy models/buildables/booster/booster_s.crn
 copy models/buildables/drill/drill.iqm
 copy models/buildables/eggpod/eggpod.iqm
 copy models/buildables/hive/hive.iqm
-copy models/buildables/hive/hive_d.crn
-copy models/buildables/hive/hive_s.crn
 copy models/buildables/leech/leech.iqm
 copy models/buildables/medistat/medistat.iqm
 copy models/buildables/medistat/medistat.txt
@@ -473,6 +471,8 @@ convert_crn models/buildables/eggpod/egg_d.png
 convert_crn models/buildables/eggpod/egg_g.png
 convert_crn models/buildables/eggpod/egg_s.png
 convert_crn models/buildables/hive/hive_a.png
+convert_crn models/buildables/hive/hive_d.png
+convert_crn models/buildables/hive/hive_s.png
 convert_crn models/buildables/leech/body_d.png
 convert_crn models/buildables/leech/body_s.png
 convert_crn models/buildables/leech/roots_d.png
