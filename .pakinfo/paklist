@@ -19,8 +19,6 @@ copy models/buildables/medistat/medistat.iqm
 copy models/buildables/medistat/medistat.txt
 copy models/buildables/mgturret/mgturret.iqm
 copy models/buildables/overmind/overmind.iqm
-copy models/buildables/overmind/overmind_d.crn
-copy models/buildables/overmind/overmind_s.crn
 copy models/buildables/reactor/reactor.iqm
 copy models/buildables/reactor/readme.txt
 copy models/buildables/repeater/repeater.iqm
@@ -489,7 +487,9 @@ convert_crn models/buildables/medistat/noise2.png
 convert_crn models/buildables/medistat/v_grid.png
 convert_crn models/buildables/mgturret/turret_d.png
 convert_crn models/buildables/mgturret/turret_s.png
+convert_crn models/buildables/overmind/overmind_d.png
 convert_crn models/buildables/overmind/overmind_g.png
+convert_crn models/buildables/overmind/overmind_s.png
 convert_crn models/buildables/reactor/reactor_arm_d.png
 convert_crn models/buildables/reactor/reactor_arm_glow1.png
 convert_crn models/buildables/reactor/reactor_arm_glow2.png
