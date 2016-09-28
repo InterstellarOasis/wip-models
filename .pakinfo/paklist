@@ -22,11 +22,6 @@ copy models/buildables/overmind/overmind.iqm
 copy models/buildables/reactor/reactor.iqm
 copy models/buildables/reactor/readme.txt
 copy models/buildables/repeater/repeater.iqm
-copy models/buildables/repeater/repeater_d.crn
-copy models/buildables/repeater/repeater_g1.crn
-copy models/buildables/repeater/repeater_g2.crn
-copy models/buildables/repeater/repeater_n.crn
-copy models/buildables/repeater/repeater_s.crn
 copy models/buildables/rocketpod/rocket.iqm
 copy models/buildables/rocketpod/rocketpod.iqm
 copy models/buildables/spiker/spiker.iqm
@@ -497,6 +492,10 @@ convert_crn models/buildables/reactor/reactor_arm_s.png
 convert_crn models/buildables/reactor/reactor_core_d.png
 convert_crn models/buildables/reactor/reactor_core_glow.png
 convert_crn models/buildables/reactor/reactor_core_s.png
+convert_crn models/buildables/repeater/repeater_d.png
+convert_crn models/buildables/repeater/repeater_g1.png
+convert_crn models/buildables/repeater/repeater_g2.png
+convert_crn models/buildables/repeater/repeater_s.png
 convert_crn models/buildables/rocketpod/rocket_d.png
 convert_crn models/buildables/rocketpod/rocket_g.png
 convert_crn models/buildables/rocketpod/rocket_s.png
@@ -539,6 +538,7 @@ convert_normalized_crn models/buildables/mgturret/turret_n.png
 convert_normalized_crn models/buildables/overmind/overmind_n.png
 convert_normalized_crn models/buildables/reactor/reactor_arm_n.png
 convert_normalized_crn models/buildables/reactor/reactor_core_n.png
+convert_normalized_crn models/buildables/repeater/repeater_n.png
 convert_normalized_crn models/buildables/rocketpod/rocket_n.png
 convert_normalized_crn models/buildables/rocketpod/rocketpod_n.png
 convert_normalized_crn models/buildables/spiker/spiker_n.png
