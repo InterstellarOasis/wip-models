@@ -514,6 +514,7 @@ convert_crn models/players/human_base/jetpack.png
 convert_crn models/players/human_base/jetpack_s.png
 convert_crn models/players/human_nobsuit_common/arm_d.png
 convert_crn models/players/level0/dretch.png
+convert_crn models/players/level1/mantis_g.png
 convert_crn models/players/level4/level4b.png
 convert_crn models/players/level4/level4h.png
 convert_crn models/weapons/lcannon/pulse_d.png
@@ -561,7 +562,11 @@ keep models/players/level1/body_default.skin
 keep models/players/level1/character.cfg
 ignore models/buildables/arm/armoury.blend
 ignore models/buildables/barricade/barricade.blend
+ignore models/buildables/booster/booster_a.xcf
+ignore models/buildables/booster/booster_d.xcf
+ignore models/buildables/booster/booster_s.xcf
 ignore models/buildables/drill/drill.blend
+ignore models/buildables/telenode/telenode_glow.xcf
 ignore models/players/human_base/jetpack.blend
 ignore models/weapons/lcannon/pulse_d.xcf
 ignore models/weapons/lcannon/pulse_s.xcf
