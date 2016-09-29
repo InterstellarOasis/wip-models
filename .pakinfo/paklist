@@ -394,11 +394,8 @@ copy models/weapons/rifle/tpweapon.md3
 copy models/weapons/shells/rifle-shell.crn
 copy models/weapons/shells/rifle-shell.md3
 copy models/weapons/shotgun/flash.crn
-copy models/weapons/shotgun/shotgun_d.crn
 copy models/weapons/shotgun/shotgun_flash.md3
 copy models/weapons/shotgun/shotgun_hand.md3
-copy models/weapons/shotgun/shotgun_n.crn
-copy models/weapons/shotgun/shotgun_s.crn
 copy models/weapons/shotgun/shotgun_view.md5mesh
 copy models/weapons/shotgun/shotgun_view_fire.md5anim
 copy models/weapons/shotgun/shotgun_view_idle.md5anim
@@ -513,6 +510,8 @@ convert_crn models/weapons/level2/zzap2.png
 convert_crn models/weapons/lgun/zlasgun.png
 convert_crn models/weapons/rifle/smg_d.png
 convert_crn models/weapons/rifle/smg_s.png
+convert_crn models/weapons/shotgun/shotgun_d.png
+convert_crn models/weapons/shotgun/shotgun_s.png
 convert_normalized_crn models/buildables/acid_tube/acidtube_n.png
 convert_normalized_crn models/buildables/arm/arm_n.png
 convert_normalized_crn models/buildables/barricade/body_n.png
@@ -554,6 +553,7 @@ convert_normalized_crn models/weapons/grenade/grenade_n.png
 convert_normalized_crn models/weapons/lcannon/pulse_n.png
 convert_normalized_crn models/weapons/lcannon/tplcannon_n.png
 convert_normalized_crn models/weapons/rifle/smg_n.png
+convert_normalized_crn models/weapons/shotgun/shotgun_n.png
 keep models/players/builder/body_advanced.skin
 keep models/players/builder/body_default.skin
 keep models/players/builder/character.cfg
