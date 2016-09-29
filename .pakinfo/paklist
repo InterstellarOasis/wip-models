@@ -339,9 +339,6 @@ copy models/weapons/lgun/zlasgun_n.crn
 copy models/weapons/lgun/zlasgun_s.crn
 copy models/weapons/lockblob/missle.crn
 copy models/weapons/lockblob/missle.md3
-copy models/weapons/mdriver/core_d.crn
-copy models/weapons/mdriver/core_n.crn
-copy models/weapons/mdriver/core_s.crn
 copy models/weapons/mdriver/flash.crn
 copy models/weapons/mdriver/lens.crn
 copy models/weapons/mdriver/lens_s.crn
@@ -355,9 +352,6 @@ copy models/weapons/mdriver/mdriver_view_raise.md5anim
 copy models/weapons/mdriver/mdriver_view_reload.md5anim
 copy models/weapons/mdriver/tpvwep.md3
 copy models/weapons/mdriver/vwep.crn
-copy models/weapons/mdriver/zmdriver_d.crn
-copy models/weapons/mdriver/zmdriver_n.crn
-copy models/weapons/mdriver/zmdriver_s.crn
 copy models/weapons/prifle/flash.crn
 copy models/weapons/prifle/prifle_flash.md3
 copy models/weapons/prifle/prifle_hand.md3
@@ -498,6 +492,10 @@ convert_crn models/weapons/lcannon/pulse_s.png
 convert_crn models/weapons/level2/zzap.png
 convert_crn models/weapons/level2/zzap2.png
 convert_crn models/weapons/lgun/zlasgun.png
+convert_crn models/weapons/mdriver/core_d.png
+convert_crn models/weapons/mdriver/core_s.png
+convert_crn models/weapons/mdriver/zmdriver_d.png
+convert_crn models/weapons/mdriver/zmdriver_s.png
 convert_crn models/weapons/prifle/lense.png
 convert_crn models/weapons/prifle/misc_d.png
 convert_crn models/weapons/prifle/misc_s.png
@@ -549,6 +547,8 @@ convert_normalized_crn models/weapons/firebomb/firebomb_n.png
 convert_normalized_crn models/weapons/grenade/grenade_n.png
 convert_normalized_crn models/weapons/lcannon/pulse_n.png
 convert_normalized_crn models/weapons/lcannon/tplcannon_n.png
+convert_normalized_crn models/weapons/mdriver/core_n.png
+convert_normalized_crn models/weapons/mdriver/zmdriver_n.png
 convert_normalized_crn models/weapons/prifle/misc_n.png
 convert_normalized_crn models/weapons/prifle/sight_n.png
 convert_normalized_crn models/weapons/prifle/zprifle_n.png
