@@ -187,7 +187,6 @@ copy models/players/level0/walk_left.md5anim
 copy models/players/level0/walk_right.md5anim
 copy models/players/level1/level1.iqm
 copy models/players/level1/mantis_d.crn
-copy models/players/level1/mantis_g.crn
 copy models/players/level1/mantis_n.crn
 copy models/players/level1/mantis_s.crn
 copy models/players/level2/AdvMara_Body_Diff.crn
@@ -572,6 +571,7 @@ ignore models/buildables/telenode/telenode.blend
 ignore models/buildables/telenode/telenode_glow.xcf
 ignore models/players/builder/granger.blend
 ignore models/players/human_base/jetpack.blend
+ignore models/players/level1/mantis.blend
 ignore models/weapons/lcannon/pulse_d.xcf
 ignore models/weapons/lcannon/pulse_s.xcf
 ignore models/weapons/rifle/smg-tpp.blend
