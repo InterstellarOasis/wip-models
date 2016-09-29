@@ -287,8 +287,6 @@ copy models/weapons/flamer/flamer_view_reload.md5anim
 copy models/weapons/flamer/flash.crn
 copy models/weapons/grenade/grenade.md5mesh
 copy models/weapons/hand.crn
-copy models/weapons/hive/sprite1.crn
-copy models/weapons/hive/sprite2.crn
 copy models/weapons/lcannon/flash.crn
 copy models/weapons/lcannon/lcannon_flash.md3
 copy models/weapons/lcannon/lcannon_hand.md3
@@ -482,6 +480,8 @@ convert_crn models/weapons/firebomb/firebomb_d.png
 convert_crn models/weapons/firebomb/firebomb_s.png
 convert_crn models/weapons/grenade/grenade.png
 convert_crn models/weapons/grenade/grenade_s.png
+convert_crn models/weapons/hive/sprite1.png
+convert_crn models/weapons/hive/sprite2.png
 convert_crn models/weapons/lcannon/pulse_d.png
 convert_crn models/weapons/lcannon/pulse_s.png
 convert_crn models/weapons/level2/zzap.png
