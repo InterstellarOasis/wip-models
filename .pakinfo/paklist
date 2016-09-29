@@ -270,9 +270,7 @@ copy models/weapons/chaingun/flash.crn
 copy models/weapons/ckit/ckit_hand.md3
 copy models/weapons/ckit/ckit_view.md5mesh
 copy models/weapons/ckit/ckit_view_idle.md5anim
-copy models/weapons/ckit/screen.crn
 copy models/weapons/ckit/screenbody.crn
-copy models/weapons/ckit/scroll.crn
 copy models/weapons/ckit/tpskin.crn
 copy models/weapons/ckit/vwep.md3
 copy models/weapons/firebomb/firebomb.md5mesh
