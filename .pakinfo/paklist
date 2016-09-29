@@ -274,17 +274,11 @@ copy models/weapons/chaingun/flash.crn
 copy models/weapons/ckit/ckit_hand.md3
 copy models/weapons/ckit/ckit_view.md5mesh
 copy models/weapons/ckit/ckit_view_idle.md5anim
-copy models/weapons/ckit/demoncore_d.crn
-copy models/weapons/ckit/demoncore_n.crn
-copy models/weapons/ckit/demoncore_s.crn
 copy models/weapons/ckit/screen.crn
 copy models/weapons/ckit/screenbody.crn
 copy models/weapons/ckit/scroll.crn
 copy models/weapons/ckit/tpskin.crn
 copy models/weapons/ckit/vwep.md3
-copy models/weapons/ckit/weapon_d.crn
-copy models/weapons/ckit/weapon_n.crn
-copy models/weapons/ckit/weapon_s.crn
 copy models/weapons/firebomb/firebomb.md5mesh
 copy models/weapons/flamer/flamer_d.crn
 copy models/weapons/flamer/flamer_n.crn
@@ -504,6 +498,10 @@ convert_crn models/players/level3/level3.png
 convert_crn models/players/level3/level3_u.png
 convert_crn models/players/level4/level4b.png
 convert_crn models/players/level4/level4h.png
+convert_crn models/weapons/ckit/demoncore_d.png
+convert_crn models/weapons/ckit/demoncore_s.png
+convert_crn models/weapons/ckit/weapon_d.png
+convert_crn models/weapons/ckit/weapon_s.png
 convert_crn models/weapons/firebomb/firebomb_d.png
 convert_crn models/weapons/firebomb/firebomb_s.png
 convert_crn models/weapons/grenade/grenade.png
@@ -549,6 +547,8 @@ convert_normalized_crn models/players/level2/Mara_Legs_Nrmls.png
 convert_normalized_crn models/players/level3/level3_n.png
 convert_normalized_crn models/players/level4/level4b_n.png
 convert_normalized_crn models/players/level4/level4h_n.png
+convert_normalized_crn models/weapons/ckit/demoncore_n.png
+convert_normalized_crn models/weapons/ckit/weapon_n.png
 convert_normalized_crn models/weapons/firebomb/firebomb_n.png
 convert_normalized_crn models/weapons/grenade/grenade_n.png
 convert_normalized_crn models/weapons/lcannon/pulse_n.png
