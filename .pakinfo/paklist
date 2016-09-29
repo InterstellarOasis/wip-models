@@ -250,7 +250,6 @@ copy models/players/level4/walk_right.md5anim
 copy models/shells/shotgunshell.crn
 copy models/shells/shotgunshell.md3
 copy models/weapons/blaster/blaster_flash.md3
-copy models/weapons/blaster/blaster_glow.crn
 copy models/weapons/blaster/blaster_hand.md3
 copy models/weapons/blaster/blaster_view.md5mesh
 copy models/weapons/blaster/blaster_view_fire.md5anim
@@ -258,9 +257,6 @@ copy models/weapons/blaster/blaster_view_idle.md5anim
 copy models/weapons/blaster/blaster_view_lower.md5anim
 copy models/weapons/blaster/blaster_view_raise.md5anim
 copy models/weapons/blaster/blaster_view_reload.md5anim
-copy models/weapons/blaster/blasterz_d.crn
-copy models/weapons/blaster/blasterz_n.crn
-copy models/weapons/blaster/blasterz_s.crn
 copy models/weapons/blaster/flash.crn
 copy models/weapons/blaster/tpskin.crn
 copy models/weapons/blaster/tpweapon.md3
@@ -477,6 +473,9 @@ convert_crn models/players/level3/level3.png
 convert_crn models/players/level3/level3_u.png
 convert_crn models/players/level4/level4b.png
 convert_crn models/players/level4/level4h.png
+convert_crn models/weapons/blaster/blaster_glow.png
+convert_crn models/weapons/blaster/blasterz_d.png
+convert_crn models/weapons/blaster/blasterz_s.png
 convert_crn models/weapons/ckit/demoncore_d.png
 convert_crn models/weapons/ckit/demoncore_s.png
 convert_crn models/weapons/ckit/weapon_d.png
@@ -540,6 +539,7 @@ convert_normalized_crn models/players/level2/Mara_Legs_Nrmls.png
 convert_normalized_crn models/players/level3/level3_n.png
 convert_normalized_crn models/players/level4/level4b_n.png
 convert_normalized_crn models/players/level4/level4h_n.png
+convert_normalized_crn models/weapons/blaster/blasterz_n.png
 convert_normalized_crn models/weapons/ckit/demoncore_n.png
 convert_normalized_crn models/weapons/ckit/weapon_n.png
 convert_normalized_crn models/weapons/firebomb/firebomb_n.png
