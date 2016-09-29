@@ -36,7 +36,6 @@ copy models/buildables/trapper/idle.md5anim
 copy models/buildables/trapper/pain.md5anim
 copy models/buildables/trapper/trapper.md5mesh
 copy models/buildables/trapper/trapper_g.crn
-copy models/buildables/trapper/trapper_s.crn
 copy models/fx/alien_gibs/a_gib1.md3
 copy models/fx/alien_gibs/a_gib2.md3
 copy models/fx/alien_gibs/a_gib3.md3
@@ -456,6 +455,7 @@ convert_crn models/buildables/telenode/telenode_d.png
 convert_crn models/buildables/telenode/telenode_glow.png
 convert_crn models/buildables/telenode/telenode_spec.png
 convert_crn models/buildables/trapper/trapper.png
+convert_crn models/buildables/trapper/trapper_s.png
 convert_crn models/players/builder/granger_d.png
 convert_crn models/players/builder/granger_spec.png
 convert_crn models/players/human_base/jetpack.png
