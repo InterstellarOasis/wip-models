@@ -27,9 +27,7 @@ copy models/buildables/rocketpod/rocketpod.iqm
 copy models/buildables/spiker/spiker.iqm
 copy models/buildables/telenode/idle.md5anim
 copy models/buildables/telenode/spawn.md5anim
-copy models/buildables/telenode/telenode-effect.crn
 copy models/buildables/telenode/telenode.md5mesh
-copy models/buildables/telenode/telenode_spec.crn
 copy models/buildables/trapper/attack.md5anim
 copy models/buildables/trapper/construct.md5anim
 copy models/buildables/trapper/destroy.md5anim
@@ -504,8 +502,10 @@ convert_crn models/buildables/rocketpod/rocketpod_s.png
 convert_crn models/buildables/spiker/spiker_d.png
 convert_crn models/buildables/spiker/spiker_g.png
 convert_crn models/buildables/spiker/spiker_s.png
+convert_crn models/buildables/telenode/telenode-effect.png
 convert_crn models/buildables/telenode/telenode_d.png
 convert_crn models/buildables/telenode/telenode_glow.png
+convert_crn models/buildables/telenode/telenode_spec.png
 convert_crn models/buildables/trapper/trapper.png
 convert_crn models/players/builder/granger_d.png
 convert_crn models/players/builder/granger_spec.png
@@ -566,6 +566,8 @@ ignore models/buildables/booster/booster_a.xcf
 ignore models/buildables/booster/booster_d.xcf
 ignore models/buildables/booster/booster_s.xcf
 ignore models/buildables/drill/drill.blend
+ignore models/buildables/telenode/telenode-effect.xcf
+ignore models/buildables/telenode/telenode.blend
 ignore models/buildables/telenode/telenode_glow.xcf
 ignore models/players/human_base/jetpack.blend
 ignore models/weapons/lcannon/pulse_d.xcf
