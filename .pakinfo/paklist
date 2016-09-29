@@ -569,6 +569,7 @@ ignore models/buildables/drill/drill.blend
 ignore models/buildables/telenode/telenode-effect.xcf
 ignore models/buildables/telenode/telenode.blend
 ignore models/buildables/telenode/telenode_glow.xcf
+ignore models/players/builder/granger.blend
 ignore models/players/human_base/jetpack.blend
 ignore models/weapons/lcannon/pulse_d.xcf
 ignore models/weapons/lcannon/pulse_s.xcf
