@@ -227,8 +227,6 @@ copy models/players/level4/jump.md5anim
 copy models/players/level4/jump_back.md5anim
 copy models/players/level4/land.md5anim
 copy models/players/level4/land_back.md5anim
-copy models/players/level4/level4b_s.crn
-copy models/players/level4/level4h_s.crn
 copy models/players/level4/pain1.md5anim
 copy models/players/level4/pain2.md5anim
 copy models/players/level4/run.md5anim
@@ -467,8 +465,10 @@ convert_crn models/players/level1/mantis_g.png
 convert_crn models/players/level3/level3.png
 convert_crn models/players/level3/level3_u.png
 convert_crn models/players/level4/level4b.png
+convert_crn models/players/level4/level4b_s.png
 convert_crn models/players/level4/level4h.png
 convert_crn models/players/level4/level4h_g.png
+convert_crn models/players/level4/level4h_s.png
 convert_crn models/weapons/blaster/blaster_glow.png
 convert_crn models/weapons/blaster/blasterz_d.png
 convert_crn models/weapons/blaster/blasterz_s.png
