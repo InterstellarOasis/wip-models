@@ -566,6 +566,7 @@ ignore models/buildables/booster/booster_a.xcf
 ignore models/buildables/booster/booster_d.xcf
 ignore models/buildables/booster/booster_s.xcf
 ignore models/buildables/drill/drill.blend
+ignore models/buildables/spiker/spiker.blend
 ignore models/buildables/telenode/telenode-effect.xcf
 ignore models/buildables/telenode/telenode.blend
 ignore models/buildables/telenode/telenode_glow.xcf
