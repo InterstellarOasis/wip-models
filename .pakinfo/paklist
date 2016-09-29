@@ -1,7 +1,5 @@
 copy README.md
 copy models/buildables/acid_tube/acid_tube.md5mesh
-copy models/buildables/acid_tube/acidtube_g.crn
-copy models/buildables/acid_tube/acidtube_s.crn
 copy models/buildables/acid_tube/attack.md5anim
 copy models/buildables/acid_tube/construct.md5anim
 copy models/buildables/acid_tube/destroy.md5anim
@@ -380,6 +378,8 @@ copy scripts/shotgun.trail
 copy scripts/smg.shader
 copy scripts/telenode.particle
 convert_crn models/buildables/acid_tube/acidtube.png
+convert_crn models/buildables/acid_tube/acidtube_g.png
+convert_crn models/buildables/acid_tube/acidtube_s.png
 convert_crn models/buildables/arm/arm_a.png
 convert_crn models/buildables/arm/arm_d.png
 convert_crn models/buildables/arm/arm_s.png
