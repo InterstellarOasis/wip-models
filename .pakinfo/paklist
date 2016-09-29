@@ -162,8 +162,6 @@ copy models/players/level0/body.md5mesh
 copy models/players/level0/die.md5anim
 copy models/players/level0/die2.md5anim
 copy models/players/level0/die3.md5anim
-copy models/players/level0/dretch_g.crn
-copy models/players/level0/dretch_s.crn
 copy models/players/level0/gesture.md5anim
 copy models/players/level0/jump.md5anim
 copy models/players/level0/jump_back.md5anim
@@ -464,6 +462,8 @@ convert_crn models/players/human_base/jetpack.png
 convert_crn models/players/human_base/jetpack_s.png
 convert_crn models/players/human_nobsuit_common/arm_d.png
 convert_crn models/players/level0/dretch.png
+convert_crn models/players/level0/dretch_g.png
+convert_crn models/players/level0/dretch_s.png
 convert_crn models/players/level1/mantis_g.png
 convert_crn models/players/level3/level3.png
 convert_crn models/players/level3/level3_u.png
