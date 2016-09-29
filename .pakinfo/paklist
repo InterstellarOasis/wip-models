@@ -286,9 +286,6 @@ copy models/weapons/ckit/weapon_d.crn
 copy models/weapons/ckit/weapon_n.crn
 copy models/weapons/ckit/weapon_s.crn
 copy models/weapons/firebomb/firebomb.md5mesh
-copy models/weapons/firebomb/firebomb_d.crn
-copy models/weapons/firebomb/firebomb_n.crn
-copy models/weapons/firebomb/firebomb_s.crn
 copy models/weapons/flamer/flamer_d.crn
 copy models/weapons/flamer/flamer_n.crn
 copy models/weapons/flamer/flamer_s.crn
@@ -300,10 +297,7 @@ copy models/weapons/flamer/flamer_view_lower.md5anim
 copy models/weapons/flamer/flamer_view_raise.md5anim
 copy models/weapons/flamer/flamer_view_reload.md5anim
 copy models/weapons/flamer/flash.crn
-copy models/weapons/grenade/grenade.crn
 copy models/weapons/grenade/grenade.md5mesh
-copy models/weapons/grenade/grenade_n.crn
-copy models/weapons/grenade/grenade_s.crn
 copy models/weapons/hand.crn
 copy models/weapons/hive/sprite1.crn
 copy models/weapons/hive/sprite2.crn
@@ -510,6 +504,10 @@ convert_crn models/players/level3/level3.png
 convert_crn models/players/level3/level3_u.png
 convert_crn models/players/level4/level4b.png
 convert_crn models/players/level4/level4h.png
+convert_crn models/weapons/firebomb/firebomb_d.png
+convert_crn models/weapons/firebomb/firebomb_s.png
+convert_crn models/weapons/grenade/grenade.png
+convert_crn models/weapons/grenade/grenade_s.png
 convert_crn models/weapons/lcannon/pulse_d.png
 convert_crn models/weapons/lcannon/pulse_s.png
 convert_crn models/weapons/level2/zzap.png
@@ -551,6 +549,8 @@ convert_normalized_crn models/players/level2/Mara_Legs_Nrmls.png
 convert_normalized_crn models/players/level3/level3_n.png
 convert_normalized_crn models/players/level4/level4b_n.png
 convert_normalized_crn models/players/level4/level4h_n.png
+convert_normalized_crn models/weapons/firebomb/firebomb_n.png
+convert_normalized_crn models/weapons/grenade/grenade_n.png
 convert_normalized_crn models/weapons/lcannon/pulse_n.png
 convert_normalized_crn models/weapons/lcannon/tplcannon_n.png
 convert_normalized_crn models/weapons/rifle/smg_n.png
