@@ -220,10 +220,7 @@ copy models/players/level2/turn.md5anim
 copy models/players/level2/walk.md5anim
 copy models/players/level2/walk_left.md5anim
 copy models/players/level2/walk_right.md5anim
-copy models/players/level3/level3.crn
-copy models/players/level3/level3_n.crn
 copy models/players/level3/level3_s.crn
-copy models/players/level3/level3_u.crn
 copy models/players/level3/level3_u_s.crn
 copy models/players/level3/nonseg.md3
 copy models/players/level4/attack.md5anim
@@ -513,6 +510,8 @@ convert_crn models/players/human_base/jetpack_s.png
 convert_crn models/players/human_nobsuit_common/arm_d.png
 convert_crn models/players/level0/dretch.png
 convert_crn models/players/level1/mantis_g.png
+convert_crn models/players/level3/level3.png
+convert_crn models/players/level3/level3_u.png
 convert_crn models/players/level4/level4b.png
 convert_crn models/players/level4/level4h.png
 convert_crn models/weapons/lcannon/pulse_d.png
@@ -549,6 +548,7 @@ convert_normalized_crn models/players/human_nobsuit_common/arm_n.png
 convert_normalized_crn models/players/level0/dretch_n.png
 convert_normalized_crn models/players/level2/Mara_Body_Nrmls.png
 convert_normalized_crn models/players/level2/Mara_Legs_Nrmls.png
+convert_normalized_crn models/players/level3/level3_n.png
 convert_normalized_crn models/players/level4/level4b_n.png
 convert_normalized_crn models/players/level4/level4h_n.png
 convert_normalized_crn models/weapons/lcannon/pulse_n.png
