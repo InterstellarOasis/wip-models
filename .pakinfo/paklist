@@ -38,8 +38,6 @@ copy models/fx/alien_gibs/a_gib1.md3
 copy models/fx/alien_gibs/a_gib2.md3
 copy models/fx/alien_gibs/a_gib3.md3
 copy models/fx/alien_gibs/a_gib4.md3
-copy models/fx/alien_gibs/gib.crn
-copy models/fx/metal_gibs/hot_gibs.crn
 copy models/fx/metal_gibs/m_gib1.md3
 copy models/fx/metal_gibs/m_gib2.md3
 copy models/fx/metal_gibs/m_gib3.md3
@@ -48,7 +46,6 @@ copy models/fx/metal_gibs/m_gib5.md3
 copy models/fx/metal_gibs/m_gib6.md3
 copy models/fx/metal_gibs/m_gib7.md3
 copy models/fx/metal_gibs/m_gib8.md3
-copy models/fx/metal_gibs/metal_gibs.crn
 copy models/missiles/spike/spike.iqm
 copy models/players/builder/attack.md5anim
 copy models/players/builder/attack2.md5anim
@@ -76,14 +73,12 @@ copy models/players/builder/walk_backwards.md5anim
 copy models/players/builder/walk_left.md5anim
 copy models/players/builder/walk_right.md5anim
 copy models/players/human_base/armor.crn
-copy models/players/human_base/battpack.crn
 copy models/players/human_base/battpack.md3
 copy models/players/human_base/body.crn
 copy models/players/human_base/head.crn
 copy models/players/human_base/helmet.crn
 copy models/players/human_base/jetpack.iqm
 copy models/players/human_bsuit/head.md3
-copy models/players/human_bsuit/human_bsuit.crn
 copy models/players/human_bsuit/lower.md3
 copy models/players/human_bsuit/upper.md3
 copy models/players/human_light/armour_d.crn
@@ -251,7 +246,6 @@ copy models/weapons/blaster/flash.crn
 copy models/weapons/blaster/tpskin.crn
 copy models/weapons/blaster/tpweapon.md3
 copy models/weapons/blaster/zsight.crn
-copy models/weapons/chaingun/chaingun.crn
 copy models/weapons/chaingun/chaingun.md3
 copy models/weapons/chaingun/chaingun_barrel.md3
 copy models/weapons/chaingun/chaingun_flash.md3
@@ -294,7 +288,6 @@ copy models/weapons/level1/vwep_hand.md3
 copy models/weapons/level1/vwep_view.iqm
 copy models/weapons/level2/vwep_hand.md3
 copy models/weapons/level2/vwep_view.iqm
-copy models/weapons/level3upg/missile.crn
 copy models/weapons/level3upg/missile.md3
 copy models/weapons/level4/tyrant_hand.md3
 copy models/weapons/level4/tyrant_view.md5mesh
@@ -317,7 +310,6 @@ copy models/weapons/lgun/lgun_view_raise.md5anim
 copy models/weapons/lgun/lgun_view_reload.md5anim
 copy models/weapons/lgun/vwep.crn
 copy models/weapons/lgun/vwep.md3
-copy models/weapons/lockblob/missle.crn
 copy models/weapons/lockblob/missle.md3
 copy models/weapons/mdriver/flash.crn
 copy models/weapons/mdriver/lens.crn
@@ -338,9 +330,6 @@ copy models/weapons/prifle/prifle_hand.md3
 copy models/weapons/prifle/prifle_view.iqm
 copy models/weapons/prifle/tpskin.crn
 copy models/weapons/prifle/tpweapon.md3
-copy models/weapons/psaw/chain.crn
-copy models/weapons/psaw/flash.crn
-copy models/weapons/psaw/psaw.crn
 copy models/weapons/psaw/psaw.md3
 copy models/weapons/psaw/psaw_flash.md3
 copy models/weapons/psaw/psaw_hand.md3
@@ -421,6 +410,7 @@ convert_crn models/buildables/medistat/medipad_lp_s.png
 convert_crn models/buildables/medistat/noise.png
 convert_crn models/buildables/medistat/noise2.png
 convert_crn models/buildables/medistat/v_grid.png
+convert_crn models/buildables/mgturret/t_flash.jpg
 convert_crn models/buildables/mgturret/turret_d.png
 convert_crn models/buildables/mgturret/turret_s.png
 convert_crn models/buildables/overmind/overmind_d.png
@@ -451,10 +441,15 @@ convert_crn models/buildables/telenode/telenode_glow.png
 convert_crn models/buildables/telenode/telenode_spec.png
 convert_crn models/buildables/trapper/trapper.png
 convert_crn models/buildables/trapper/trapper_s.png
+convert_crn models/fx/alien_gibs/gib.jpg
+convert_crn models/fx/metal_gibs/hot_gibs.jpg
+convert_crn models/fx/metal_gibs/metal_gibs.jpg
 convert_crn models/players/builder/granger_d.png
 convert_crn models/players/builder/granger_spec.png
+convert_crn models/players/human_base/battpack.jpg
 convert_crn models/players/human_base/jetpack.png
 convert_crn models/players/human_base/jetpack_s.png
+convert_crn models/players/human_bsuit/human_bsuit.jpg
 convert_crn models/players/human_light/helmet_glow.png
 convert_crn models/players/human_medium/helmet_glow.png
 convert_crn models/players/human_nobsuit_common/arm_d.png
@@ -472,6 +467,7 @@ convert_crn models/players/level4/level4h_s.png
 convert_crn models/weapons/blaster/blaster_glow.png
 convert_crn models/weapons/blaster/blasterz_d.png
 convert_crn models/weapons/blaster/blasterz_s.png
+convert_crn models/weapons/chaingun/chaingun.jpg
 convert_crn models/weapons/ckit/demoncore_d.png
 convert_crn models/weapons/ckit/demoncore_s.png
 convert_crn models/weapons/ckit/weapon_d.png
@@ -486,8 +482,10 @@ convert_crn models/weapons/lcannon/pulse_d.png
 convert_crn models/weapons/lcannon/pulse_s.png
 convert_crn models/weapons/level2/zzap.png
 convert_crn models/weapons/level2/zzap2.png
+convert_crn models/weapons/level3upg/missile.jpg
 convert_crn models/weapons/lgun/zlasgun.png
 convert_crn models/weapons/lgun/zlasgun_s.png
+convert_crn models/weapons/lockblob/missle.jpg
 convert_crn models/weapons/mdriver/core_d.png
 convert_crn models/weapons/mdriver/core_s.png
 convert_crn models/weapons/mdriver/zmdriver_d.png
@@ -499,6 +497,9 @@ convert_crn models/weapons/prifle/sight_d.png
 convert_crn models/weapons/prifle/sight_s.png
 convert_crn models/weapons/prifle/zprifle_d.png
 convert_crn models/weapons/prifle/zprifle_s.png
+convert_crn models/weapons/psaw/chain.jpg
+convert_crn models/weapons/psaw/flash.jpg
+convert_crn models/weapons/psaw/psaw.jpg
 convert_crn models/weapons/rifle/smg_d.png
 convert_crn models/weapons/rifle/smg_s.png
 convert_crn models/weapons/shotgun/shotgun_d.png
