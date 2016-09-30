@@ -173,13 +173,6 @@ copy models/players/level1/level1.iqm
 copy models/players/level1/mantis_d.crn
 copy models/players/level1/mantis_n.crn
 copy models/players/level1/mantis_s.crn
-copy models/players/level2/AdvMara_Body_Diff.crn
-copy models/players/level2/AdvMara_Legs_Diff.crn
-copy models/players/level2/Mara_Body_Diff.crn
-copy models/players/level2/Mara_Body_Glow.crn
-copy models/players/level2/Mara_Body_Specc.crn
-copy models/players/level2/Mara_Legs_Diff.crn
-copy models/players/level2/Mara_Legs_Specc.crn
 copy models/players/level2/attack.md5anim
 copy models/players/level2/attack2.md5anim
 copy models/players/level2/attack3.md5anim
@@ -450,6 +443,13 @@ convert_crn models/players/level0/dretch.png
 convert_crn models/players/level0/dretch_g.png
 convert_crn models/players/level0/dretch_s.png
 convert_crn models/players/level1/mantis_g.png
+convert_crn models/players/level2/AdvMara_Body_Diff.png
+convert_crn models/players/level2/AdvMara_Legs_Diff.png
+convert_crn models/players/level2/Mara_Body_Diff.png
+convert_crn models/players/level2/Mara_Body_Glow.png
+convert_crn models/players/level2/Mara_Body_Specc.png
+convert_crn models/players/level2/Mara_Legs_Diff.png
+convert_crn models/players/level2/Mara_Legs_Specc.png
 convert_crn models/players/level3/level3.png
 convert_crn models/players/level3/level3_u.png
 convert_crn models/players/level4/level4b.png
